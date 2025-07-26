@@ -17,6 +17,6 @@ All rights are reserved by the author.
 
 If you need access for a specific purpose (e.g., demo, partnership, evaluation), contact:
 
-**Author:** Shaik Mohammed
-**Email:** mail@mshaikq.com
-**GitHub:** [@mshaikq](https://github.com/mshaikq)
+**Author:** Shaik Mohammed  
+**Email:** mail@mshaikq.com  
+**GitHub:** [@mshaikq](https://github.com/mshaikq)  
